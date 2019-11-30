@@ -13,6 +13,7 @@ public class x : MonoBehaviour
     Object bulletRef;
     Object bulletRef2;
     bool onGround = false;
+    public GameObject head;
     void Start()
     {
 	speed = Time.deltaTime;
@@ -36,44 +37,46 @@ public class x : MonoBehaviour
         }      
 	if (Input.GetKeyDown(KeyCode.X) && onGround )
         {
-	    animator.SetBool("jump", true);
             rb.AddForce(new Vector2(0, 200));
         }
 	if (Input.GetKeyDown(KeyCode.C))
 	{
-		animator.SetBool("shoot",true);
+		animator.SetBool("hitCV",true);
 		GameObject bullet = (GameObject)Instantiate(bulletRef, firePoint.position, firePoint.rotation);
 	}
 	if (Input.GetKeyUp(KeyCode.C) || Input.GetKeyUp(KeyCode.V))
 	{
-		animator.SetBool("shoot", false);
+		animator.SetBool("hitCV", false);
 	}
 	
 	if (Input.GetKeyDown(KeyCode.Z) && onGround)
         {
 		if (tf.rotation.y == 0) rb.AddForce(new Vector2(150, 0));
 		else rb.AddForce(new Vector2(-150, 0));
-	    	animator.SetBool("dash", true);
+	    	animator.SetBool("hitZ", true);
         }
 	if (Input.GetKeyUp(KeyCode.Z))
-		animator.SetBool("dash",false);
+		animator.SetBool("hitZ",false);
 	if (Input.GetKeyDown(KeyCode.V))
         {
-		animator.SetBool("shoot",true);
+		animator.SetBool("hitCV",true);
 		GameObject bullet2 = (GameObject)Instantiate(bulletRef2, firePoint.position, firePoint.rotation);
         }
+	if (onGround)
+		animator.SetBool("onGround",true);
+	else animator.SetBool("onGround",false);
     }
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.name == "ground") {
-		animator.SetBool("jump",false);
+        if (col.gameObject.tag == "ground") {
 		onGround =true;
 	}
     }
     void OnCollisionExit2D(Collision2D col)
     {
-        if(col.gameObject.name=="ground")  
-            onGround = false;
+        if(col.gameObject.tag=="ground"){
+		onGround = false;
+	}
     }
 
 }
