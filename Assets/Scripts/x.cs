@@ -23,7 +23,7 @@ public class x : MonoBehaviour
     void Update()
     {
 	speed = Mathf.Abs(Input.GetAxisRaw("Horizontal") * Time.deltaTime);
-	animator.SetFloat("speed", 100*speed);
+	animator.SetFloat("speed", 200*speed);
 	tf.Translate(new Vector2(speed, 0));
 
 	if (Input.GetKey(KeyCode.LeftArrow)){
@@ -37,7 +37,7 @@ public class x : MonoBehaviour
 	if (Input.GetKeyDown(KeyCode.X) && onGround )
         {
 	    animator.SetBool("jump", true);
-            rb.AddForce(new Vector2(0, 200));
+            rb.AddForce(new Vector2(0, 250));
         }
 	if (Input.GetKeyDown(KeyCode.C))
 	{
@@ -65,15 +65,32 @@ public class x : MonoBehaviour
     }
     void OnCollisionEnter2D(Collision2D col)
     {
-        if (col.gameObject.name == "ground") {
-		animator.SetBool("jump",false);
-		onGround =true;
-	}
+        if (col.gameObject.name == "ground1" || col.gameObject.name == "ground2"
+            || col.gameObject.name == "ground5" || col.gameObject.name == "ground6"
+            || col.gameObject.name == "ground7" || col.gameObject.name == "helper_barier1"  
+            || col.gameObject.name == "barier1" || col.gameObject.name == "barier2"
+            || col.gameObject.name == "br1" || col.gameObject.name == "br2"
+            || col.gameObject.name == "br3" || col.gameObject.name == "br4"
+            || col.gameObject.name == "br5" 
+            || col.gameObject.name == "moving_base1" || col.gameObject.name == "moving_base2") 
+        {
+		  animator.SetBool("jump", false);
+		  onGround = true;
+	    }
     }
     void OnCollisionExit2D(Collision2D col)
     {
-        if(col.gameObject.name=="ground")  
-            onGround = false;
+        // if(col.gameObject.name=="Ground1")  
+        //     onGround = false;
+        if (col.gameObject.name == "ground1" || col.gameObject.name == "ground2"
+            || col.gameObject.name == "ground5" || col.gameObject.name == "ground6"
+            || col.gameObject.name == "ground7" || col.gameObject.name == "helper_barier1"  
+            || col.gameObject.name == "barier1" || col.gameObject.name == "barier2"
+            || col.gameObject.name == "br1" || col.gameObject.name == "br2"
+            || col.gameObject.name == "br3" || col.gameObject.name == "br4"
+            || col.gameObject.name == "br5" 
+            || col.gameObject.name == "moving_base1" || col.gameObject.name == "moving_base2")
+                onGround = false; 
     }
 
 }

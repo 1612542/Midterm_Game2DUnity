@@ -1,0 +1,1238 @@
+fileFormatVersion: 2
+guid: 1bd8058cf3aae1441a8ced1eb18a721f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8824142414453509026
+    second: mega_tileset_1_0
+  - first:
+      213: 3752768160328954719
+    second: mega_tileset_1_1
+  - first:
+      213: -7663811296153265277
+    second: mega_tileset_1_2
+  - first:
+      213: 131540133644222249
+    second: mega_tileset_1_3
+  - first:
+      213: 6351522998065793690
+    second: mega_tileset_1_4
+  - first:
+      213: 6498138115110187379
+    second: mega_tileset_1_5
+  - first:
+      213: -1963665955016763404
+    second: mega_tileset_1_6
+  - first:
+      213: -3747498593654947200
+    second: mega_tileset_1_7
+  - first:
+      213: 339778034875923018
+    second: mega_tileset_1_8
+  - first:
+      213: 8488202001468548224
+    second: mega_tileset_1_9
+  - first:
+      213: -1383993837393892223
+    second: mega_tileset_1_10
+  - first:
+      213: -9195287136751097345
+    second: mega_tileset_1_11
+  - first:
+      213: -7152600327287934093
+    second: mega_tileset_1_12
+  - first:
+      213: -4988481093573067980
+    second: mega_tileset_1_13
+  - first:
+      213: -7220429348424572811
+    second: mega_tileset_1_14
+  - first:
+      213: -446885001711818098
+    second: mega_tileset_1_15
+  - first:
+      213: 5826419392738321918
+    second: mega_tileset_1_16
+  - first:
+      213: -1012107265346242271
+    second: mega_tileset_1_17
+  - first:
+      213: 6211103940234662718
+    second: mega_tileset_1_18
+  - first:
+      213: 6308193085929539131
+    second: mega_tileset_1_19
+  - first:
+      213: -754311021101853304
+    second: mega_tileset_1_20
+  - first:
+      213: 1542962380309547299
+    second: mega_tileset_1_21
+  - first:
+      213: -3056419172047738839
+    second: mega_tileset_1_22
+  - first:
+      213: -8602640559215891902
+    second: mega_tileset_1_23
+  - first:
+      213: -5025255471891941419
+    second: mega_tileset_1_24
+  - first:
+      213: -5170307449970631194
+    second: mega_tileset_1_25
+  - first:
+      213: -3864237669036512058
+    second: mega_tileset_1_26
+  - first:
+      213: 3859529661565608323
+    second: mega_tileset_1_27
+  - first:
+      213: -7918681950767586089
+    second: mega_tileset_1_28
+  - first:
+      213: 4951765113411391821
+    second: mega_tileset_1_29
+  - first:
+      213: 8719997370276050113
+    second: mega_tileset_1_30
+  - first:
+      213: 8068919590607321634
+    second: mega_tileset_1_31
+  - first:
+      213: 4776066012656873900
+    second: mega_tileset_1_32
+  - first:
+      213: 7236121154149270779
+    second: mega_tileset_1_33
+  - first:
+      213: -5112407081597172876
+    second: mega_tileset_1_34
+  - first:
+      213: -586148501863423838
+    second: mega_tileset_1_35
+  - first:
+      213: 3367433755871621502
+    second: mega_tileset_1_36
+  - first:
+      213: -4235993276798790939
+    second: mega_tileset_1_37
+  - first:
+      213: 2410028031787305955
+    second: mega_tileset_1_38
+  - first:
+      213: 3782371710949447587
+    second: mega_tileset_1_39
+  - first:
+      213: 1489913026635838526
+    second: mega_tileset_1_40
+  - first:
+      213: -9218555055401916579
+    second: mega_tileset_1_41
+  - first:
+      213: -5574738447804750134
+    second: mega_tileset_1_42
+  - first:
+      213: 105231772940785729
+    second: mega_tileset_1_43
+  - first:
+      213: 8837501006506678824
+    second: mega_tileset_1_44
+  - first:
+      213: 4210012941516005444
+    second: mega_tileset_1_45
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mega_tileset_1_0
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1300
+        width: 128
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 426a7a86f9882934a8d7488b0bf37706
+      internalID: -8824142414453509026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_1
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1204
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5abf9394d65e2814dacd67ab7d58d921
+      internalID: 3752768160328954719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_2
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1284
+        width: 176
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8cf4a8403a1895439ad5a4adb7e3557
+      internalID: -7663811296153265277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_3
+      rect:
+        serializedVersion: 2
+        x: 1296
+        y: 1236
+        width: 112
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d55ae9264da8a22498ece975af15f0ff
+      internalID: 131540133644222249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_4
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 1172
+        width: 48
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edb7e21db59e58b46bf405f1768f8c40
+      internalID: 6351522998065793690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_5
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1172
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 384d62bebb4c2a945bb9d12cc137d907
+      internalID: 6498138115110187379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1153
+        width: 176
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 717cee2ba0450ab45b1290ccb486704b
+      internalID: -1963665955016763404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_7
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1076
+        width: 320
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08eed4ffabc31434da65964d0de722b8
+      internalID: -3747498593654947200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_8
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1012
+        width: 223
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf897dcca42a7bf40b206b1a000e2a08
+      internalID: 339778034875923018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_9
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1108
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f76102f233e58469d954b303d185a4
+      internalID: 8488202001468548224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_10
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 801
+        width: 416
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488cf75d4e5f0f147bb869ccd1475f27
+      internalID: -1383993837393892223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_11
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 911
+        width: 107
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6c487cf4a189704eaa453e03216e448
+      internalID: -9195287136751097345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_12
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 868
+        width: 240
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe0a1ceb5bc685428efa87f7ec896cc
+      internalID: -7152600327287934093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 679
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c65619af2c22eb49ba88b97a934649d
+      internalID: -4988481093573067980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_14
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 726
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154e957b607ace2479685b0a1eb8b0ec
+      internalID: -7220429348424572811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_15
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 690
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48a8ff6340fb6144d9966be5340494b7
+      internalID: -446885001711818098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_16
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 708
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41937910c96d0e848a26edb9e0682d42
+      internalID: 5826419392738321918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_17
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 692
+        width: 240
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1f8e87b4942bd45887d7e299d5b456
+      internalID: -1012107265346242271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_18
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 614
+        width: 112
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dcfd0472cb8caa49803d348ca6022c2
+      internalID: 6211103940234662718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_19
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 678
+        width: 77
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adcf76665a68a564a98f8097d93086a8
+      internalID: 6308193085929539131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_20
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 567
+        width: 111
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7ac3b476fd00b41bad53eb0f84f00f
+      internalID: -754311021101853304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_21
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 404
+        width: 384
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853e3497c9e4d854d9951c1772eb01eb
+      internalID: 1542962380309547299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_22
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 550
+        width: 64
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784096b9e43ce3f41b0380c13258b8b5
+      internalID: -3056419172047738839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_23
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 534
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39242a0bd0fe01e489b05fac45c27986
+      internalID: -8602640559215891902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_24
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 468
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 484722b372665f84ca0983732b7e7ece
+      internalID: -5025255471891941419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 356
+        width: 48
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3e564eaa5c8f948b675aad6919275e
+      internalID: -5170307449970631194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_26
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 372
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8004e477190c8b4db022ba41fd6ff2f
+      internalID: -3864237669036512058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_27
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 228
+        width: 112
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5e9c0836005b944b9a63df8c6abb300
+      internalID: 3859529661565608323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_28
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 372
+        width: 224
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab93ca4479b56954e9336dab0da8d727
+      internalID: -7918681950767586089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_29
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 340
+        width: 168
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd82500577ef69a4e930a9148c50758a
+      internalID: 4951765113411391821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_30
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 52
+        width: 240
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8feb1fee929c245ac918c77a1070bd
+      internalID: 8719997370276050113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 292
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc1ecbeea108524483626109f61cf24
+      internalID: 8068919590607321634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_32
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 260
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41f080b847c82e468855f4fcf43cc92
+      internalID: 4776066012656873900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_33
+      rect:
+        serializedVersion: 2
+        x: 1018
+        y: 298
+        width: 75
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56502d8b1a7fe214c93b40dfc90f1252
+      internalID: 7236121154149270779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_34
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 262
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14557dfe996444448af3b1ae6966c6b3
+      internalID: -5112407081597172876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_35
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 245
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb8ea74458bde743a0f49c3b93e4870
+      internalID: -586148501863423838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_36
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 245
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aafaf02cf6be6fd4f859c22785c18372
+      internalID: 3367433755871621502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_37
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 245
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f33e3262bbddfc4d8560f967a61a17b
+      internalID: -4235993276798790939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_38
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 205
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f963d9e9cd6204eb8e0742985d916f
+      internalID: 2410028031787305955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 400
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d689f0b678e8c694e994b3cfcded4506
+      internalID: 3782371710949447587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_40
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 148
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6f040571d9bd4418a4d17f299a81a9
+      internalID: 1489913026635838526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_41
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 20
+        width: 144
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01b3ad9851e63a14fb44fe6dd0725bcc
+      internalID: -9218555055401916579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_42
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 116
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff1170ce8353f64cbc60398ae93411d
+      internalID: -5574738447804750134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_43
+      rect:
+        serializedVersion: 2
+        x: 1264
+        y: 102
+        width: 144
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d621a41c914b4094caffd206afb44e02
+      internalID: 105231772940785729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_44
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 52
+        width: 31
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52bed908885edd145bc43c15b5c8f189
+      internalID: 8837501006506678824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mega_tileset_1_45
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 20
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 390cdd6fffc26fa458edb8abbf4d520c
+      internalID: 4210012941516005444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7d03f0446a906784c833448ec676e160
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
