@@ -1,0 +1,902 @@
+fileFormatVersion: 2
+guid: 3e1dcbb35441fc146a408a33cd775d10
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2595283979909620162
+    second: mmx4_hud_0
+  - first:
+      213: -1670239952777431023
+    second: mmx4_hud_1
+  - first:
+      213: -7741186587332618080
+    second: mmx4_hud_2
+  - first:
+      213: 4732478843421594638
+    second: mmx4_hud_3
+  - first:
+      213: 5917491274509991375
+    second: mmx4_hud_4
+  - first:
+      213: -6606968708710840047
+    second: mmx4_hud_5
+  - first:
+      213: -1631810935609460568
+    second: mmx4_hud_6
+  - first:
+      213: -1318245933375476431
+    second: mmx4_hud_7
+  - first:
+      213: 7779926831815180556
+    second: mmx4_hud_8
+  - first:
+      213: -971417763996481425
+    second: mmx4_hud_9
+  - first:
+      213: -4525799122176593113
+    second: mmx4_hud_10
+  - first:
+      213: 7357942386691557434
+    second: mmx4_hud_11
+  - first:
+      213: -7409146188994485008
+    second: mmx4_hud_12
+  - first:
+      213: -6104417871910960575
+    second: mmx4_hud_13
+  - first:
+      213: -7084421877613059375
+    second: mmx4_hud_14
+  - first:
+      213: 6309760901019551114
+    second: mmx4_hud_15
+  - first:
+      213: 4501229306137296984
+    second: mmx4_hud_16
+  - first:
+      213: 7686109188177295390
+    second: mmx4_hud_17
+  - first:
+      213: -5942816854569904232
+    second: mmx4_hud_18
+  - first:
+      213: -8181946471056080485
+    second: mmx4_hud_19
+  - first:
+      213: 3590152790931604672
+    second: mmx4_hud_20
+  - first:
+      213: -6220474705134082010
+    second: mmx4_hud_21
+  - first:
+      213: -7858467556573518224
+    second: mmx4_hud_22
+  - first:
+      213: -783099169646741878
+    second: mmx4_hud_23
+  - first:
+      213: -4423025485858482939
+    second: mmx4_hud_24
+  - first:
+      213: -4508473222867633045
+    second: mmx4_hud_25
+  - first:
+      213: 53607187607406719
+    second: mmx4_hud_26
+  - first:
+      213: -2041918121038562770
+    second: mmx4_hud_27
+  - first:
+      213: -5515857642674744139
+    second: mmx4_hud_28
+  - first:
+      213: -4397421484686950180
+    second: mmx4_hud_29
+  - first:
+      213: 3854331837617264907
+    second: mmx4_hud_30
+  - first:
+      213: -5112363587770374086
+    second: mmx4_hud_31
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmx4_hud_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 114
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7702e16a6e4da4bbab4a6ca7667621
+      internalID: 2595283979909620162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_1
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 114
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b72d7406e3dd44ab88f73885faec17
+      internalID: -1670239952777431023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_2
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 114
+        width: 39
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c56fbf5307251449918e78957defaad
+      internalID: -7741186587332618080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_3
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 114
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77970896c549b79489270636380923f4
+      internalID: 4732478843421594638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_4
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 114
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e7aeb20905549e45b8f212578cb9e42
+      internalID: 5917491274509991375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_5
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 114
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19193b643ce43fb4882372ca300786e4
+      internalID: -6606968708710840047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 97
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8859cd10ec47f8243a1a4d1c96fd2146
+      internalID: -1631810935609460568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_7
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 97
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fde26cd0cdb9f42b11c60b6ea75389
+      internalID: -1318245933375476431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_8
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 97
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32448ca3843a221449f31f220b4b123f
+      internalID: 7779926831815180556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 97
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c3d397a587236479ae748fbc58ab0e
+      internalID: -971417763996481425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 97
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9891f6be820a60843b09b33bc8635f0e
+      internalID: -4525799122176593113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_11
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 97
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721c48627d6d3f74e848c96735a6e5cc
+      internalID: 7357942386691557434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 70
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fca8becd5359a24a9716d929f111e58
+      internalID: -7409146188994485008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_13
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 70
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4261153617795974abea12ed274e468a
+      internalID: -6104417871910960575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_14
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 67
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17b3254850de0b47bdf0d7f938e6676
+      internalID: -7084421877613059375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_15
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 49
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b30dcd1604e8b1c4782af9f4a5be4b92
+      internalID: 6309760901019551114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 68
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8540e8cf60359554f9264036f232a36c
+      internalID: 4501229306137296984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_17
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 68
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563154485062e1b4a8573040af34e657
+      internalID: 7686109188177295390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 49
+        width: 43
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c115c6fd53790f047a3578189739948d
+      internalID: -5942816854569904232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_19
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 29
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1ea71fbc608414fbde6235e62947c4
+      internalID: -8181946471056080485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 29
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736adc56381da684484660173c158c2f
+      internalID: 3590152790931604672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 29
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375cb1808886f6c44bba0a266807434c
+      internalID: -6220474705134082010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_22
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 29
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87308a0a3c259e14b81932f0f6b59a4e
+      internalID: -7858467556573518224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_23
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 29
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3b2fe14e1ed7f7459ce2c8725c3ab79
+      internalID: -783099169646741878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_24
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 29
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692cf90d4a137a249a83fc1fa77aabdd
+      internalID: -4423025485858482939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 29
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256ba57559fbff44bbe6dac01f0ac864
+      internalID: -4508473222867633045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 30
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc387199813ba5448f0e08bc6e6ebb2
+      internalID: 53607187607406719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 5
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f80f3898d42654aa9024dddad5e167
+      internalID: -2041918121038562770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_28
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 5
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f342050f5892249825dd1b8a26ffcf
+      internalID: -5515857642674744139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_29
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 50
+        width: 3
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271b655569cb7b64abaf3857382a8d1f
+      internalID: -4397421484686950180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_30
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 49
+        width: 2
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d143c5afbaf0d44b0bcc8e4c631a73
+      internalID: 3854331837617264907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4_hud_31
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 49
+        width: 3
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a702f8d810c9394a9e42b61e9b114ba
+      internalID: -5112363587770374086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d387bda99eb30dc4392f4bc54e748b5a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -9,11 +9,12 @@ public class ebullet3 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-	rb.velocity = -transform.right * 5f;
-	Invoke("DestroyS", 2f);
+	    rb.velocity = -transform.right * 5f;
+	    Invoke("DestroyS", 2f);
     }
 
-    private void DestroyS(){
-	Destroy(gameObject);
+    void DestroyS()
+    {
+	    Destroy(gameObject);
     }
 }

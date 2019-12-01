@@ -7,6 +7,18 @@ TagManager:
   - ground
   - enemy
   - ebullet
+  - MegaMan
+  - trap
+  - bee
+  - mushroom
+  - flying_face
+  - bosscar
+  - bat
+  - electric_trap
+  - fire_trap
+  - dietrap
+  - moving_trap
+  - ebullet3
   layers:
   - Default
   - TransparentFX

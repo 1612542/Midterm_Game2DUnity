@@ -6,20 +6,23 @@ public class bullet : MonoBehaviour
 {
 	public Rigidbody2D rb;
 	public int damage = 40;
+
     // Start is called before the first frame update
     void Start()
     {
-	rb.velocity = transform.right * 5f;
-	Invoke("DestroyS", 2f);
+	    rb.velocity = transform.right * 5f;
+	    Invoke("DestroyS", 2f);
     }
 
-    private void DestroyS(){
-	Destroy(gameObject);
+    private void DestroyS()
+    {
+	    Destroy(gameObject);
     }
 
-    void OnTriggerEnter2D(Collider2D col){
-	Destroy(gameObject);
-	Enemy enemy = col.GetComponent<Enemy>();
-	if (enemy != null) enemy.TakeDamage(damage);
+    void OnTriggerEnter2D(Collider2D col)
+    {
+	    Destroy(gameObject);
+	    Enemy enemy = col.GetComponent<Enemy>();
+	    if (enemy != null) enemy.TakeDamage(damage);
     }
 }

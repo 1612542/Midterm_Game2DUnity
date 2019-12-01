@@ -9,11 +9,12 @@ public class ebullet : MonoBehaviour
 	public float speed;
 	Vector3 direction;
 	GameObject x;
+
     // Start is called before the first frame update
     void Start()
     {
-	x= GameObject.Find("x");
-	speed =Random.Range(0.1f,2f);
+	    x = GameObject.Find("x");
+	    speed = Random.Range(0.1f,2f);
         direction = x.transform.position - transform.position;
     }
 
@@ -22,7 +23,9 @@ public class ebullet : MonoBehaviour
     {
      	tf.Translate(direction/direction.magnitude*Time.deltaTime*speed);
     }
-    void OnBecameInvisible() {
-  	Destroy(gameObject);
+
+    void OnBecameInvisible()
+    {
+  	    Destroy(gameObject);
     }
 }

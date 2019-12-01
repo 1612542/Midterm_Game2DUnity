@@ -2,16 +2,16 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class MovingTrap1 : MonoBehaviour
+public class MovingTrap2 : MonoBehaviour
 {
     private Vector2 startPos, endPos, nextPos;
-    private float speed = 0.4f;
+    public float speed = 0.4f;
 
     void Start()
     {
         nextPos = transform.position;
         startPos = transform.position;
-        endPos = new Vector2(16.78f, transform.position.y);
+        endPos = new Vector2(8.3f, transform.position.y);
     }
 
     void Update()
