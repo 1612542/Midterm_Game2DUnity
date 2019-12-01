@@ -97,18 +97,16 @@ public class x : MonoBehaviour
         {
 		  onGround = true;
 	    }
-        //if (col.gameObject.tag == "dietrap")
-        //{
-        //    hp = 0;
-        //}
-        //if (col.gameObject.tag == "bee" || col.gameObject.tag == "flying_face" || col.gameObject.tag == "mushroom" 
-        //    || col.gameObject.tag == "bat" || col.gameObject.tag == "bosscar" || col.gameObject.tag == "electric_trap" 
-        //    || col.gameObject.tag == "moving_trap")
-        //{
-        //    rb.AddForce(-transform.right * 50);
-        //    animator.Play("hurt");
-        //    hp -= 20;
-        //}
+        if (col.gameObject.tag == "dietrap")
+        {
+            hp = 0;
+        }
+        if (col.gameObject.tag == "enemy")
+        {
+            rb.AddForce(-transform.right * 50);
+            animator.Play("hurt");
+            hp -= 20;
+        }
     }
 
     void OnTriggerEnter2D(Collider2D col)
