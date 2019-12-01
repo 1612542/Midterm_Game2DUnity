@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class x : MonoBehaviour
 {
+    public float hp=200f;
     float speed = 0f;
     public SpriteRenderer sr;
     public Transform tf;
@@ -12,13 +13,16 @@ public class x : MonoBehaviour
     public Transform firePoint;
     Object bulletRef;
     Object bulletRef2;
+    Object deadRef;
     bool onGround = false;
     public GameObject head;
+    bool deadEffect = false;
     void Start()
     {
 	speed = Time.deltaTime;
 	bulletRef = Resources.Load("bullet");
 	bulletRef2 = Resources.Load("bullet2");
+	deadRef = Resources.Load("dead");
     }
     // Update is called once per frame
     void Update()
@@ -27,29 +31,29 @@ public class x : MonoBehaviour
 	animator.SetFloat("speed", 100*speed);
 	tf.Translate(new Vector2(speed, 0));
 
-	if (Input.GetKey(KeyCode.LeftArrow)){
+	if (Input.GetKey(KeyCode.LeftArrow) ){
             	tf.rotation = Quaternion.Euler(0, 180, 0);
         }
             
-        if (Input.GetKey(KeyCode.RightArrow))
+        if (Input.GetKey(KeyCode.RightArrow)  )
         {
             	tf.rotation = Quaternion.Euler(0, 0, 0);
         }      
-	if (Input.GetKeyDown(KeyCode.X) && onGround )
+	if (Input.GetKeyDown(KeyCode.X) && onGround  )
         {
             rb.AddForce(new Vector2(0, 200));
         }
-	if (Input.GetKeyDown(KeyCode.C))
+	if (Input.GetKeyDown(KeyCode.C) )
 	{
 		animator.SetBool("hitCV",true);
 		GameObject bullet = (GameObject)Instantiate(bulletRef, firePoint.position, firePoint.rotation);
 	}
-	if (Input.GetKeyUp(KeyCode.C) || Input.GetKeyUp(KeyCode.V))
+	if (Input.GetKeyUp(KeyCode.C) || Input.GetKeyUp(KeyCode.V) )
 	{
 		animator.SetBool("hitCV", false);
 	}
 	
-	if (Input.GetKeyDown(KeyCode.Z) && onGround)
+	if (Input.GetKeyDown(KeyCode.Z) && onGround  )
         {
 		if (tf.rotation.y == 0) rb.AddForce(new Vector2(150, 0));
 		else rb.AddForce(new Vector2(-150, 0));
@@ -57,7 +61,7 @@ public class x : MonoBehaviour
         }
 	if (Input.GetKeyUp(KeyCode.Z))
 		animator.SetBool("hitZ",false);
-	if (Input.GetKeyDown(KeyCode.V))
+	if (Input.GetKeyDown(KeyCode.V) )
         {
 		animator.SetBool("hitCV",true);
 		GameObject bullet2 = (GameObject)Instantiate(bulletRef2, firePoint.position, firePoint.rotation);
@@ -65,7 +69,14 @@ public class x : MonoBehaviour
 	if (onGround)
 		animator.SetBool("onGround",true);
 	else animator.SetBool("onGround",false);
+	if (hp <= 0 && !deadEffect){
+		deadEffect = true;
+		GameObject b = (GameObject)Instantiate(deadRef, firePoint.position, firePoint.rotation);
+		gameObject.GetComponent<Renderer>().enabled = false;
+	}
     }
+
+    
     void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.tag == "ground") {
@@ -78,5 +89,11 @@ public class x : MonoBehaviour
 		onGround = false;
 	}
     }
-
+    void OnTriggerEnter2D(Collider2D col){
+	if (col.gameObject.tag =="ebullet"){
+		rb.AddForce(-transform.right*50);
+		animator.Play("hurt");
+		hp -=20;
+	}
+    }
 }
