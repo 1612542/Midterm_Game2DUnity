@@ -86,20 +86,28 @@ public class x : MonoBehaviour
             || col.gameObject.name == "barier1" || col.gameObject.name == "barier2"
             || col.gameObject.name == "br1" || col.gameObject.name == "br2"
             || col.gameObject.name == "br3" || col.gameObject.name == "br4"
-            || col.gameObject.name == "br5" 
-            || col.gameObject.name == "moving_base1" || col.gameObject.name == "moving_base2") 
+            || col.gameObject.name == "br5" || col.gameObject.name == "br6"
+            || col.gameObject.name == "moving_base1" || col.gameObject.name == "moving_base2"
+            || col.gameObject.name == "moving_base3" || col.gameObject.name == "moving_base4"
+            || col.gameObject.name == "moving_base5" || col.gameObject.name == "helper"
+            || col.gameObject.name == "lava1" || col.gameObject.name == "lava2"
+            || col.gameObject.name == "lava3" || col.gameObject.name == "lava4"
+            || col.gameObject.name == "rock") 
         {
 		  animator.SetBool("jump", false);
 		  onGround = true;
 	    }
     }
 
-    void OnTriggerEnter2D(Collider2D col){
-	if (col.gameObject.tag =="ebullet"){
-		rb.AddForce(-transform.right*50);
-		animator.Play("hurt");
-		hp -=20;
-	}
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        if (col.gameObject.tag == "ebullet")
+        {
+            rb.AddForce(-transform.right * 50);
+            animator.Play("hurt");
+            hp -= 20;
+        }
+    }
 
     void OnCollisionExit2D(Collision2D col)
     {
@@ -111,8 +119,10 @@ public class x : MonoBehaviour
             || col.gameObject.name == "barier1" || col.gameObject.name == "barier2"
             || col.gameObject.name == "br1" || col.gameObject.name == "br2"
             || col.gameObject.name == "br3" || col.gameObject.name == "br4"
-            || col.gameObject.name == "br5" 
-            || col.gameObject.name == "moving_base1" || col.gameObject.name == "moving_base2")
+            || col.gameObject.name == "br5" || col.gameObject.name == "br6"
+            || col.gameObject.name == "moving_base1" || col.gameObject.name == "moving_base2"
+            || col.gameObject.name == "moving_base3" || col.gameObject.name == "moving_base4"
+            || col.gameObject.name == "moving_base5" || col.gameObject.name == "helper")
                 onGround = false; 
     }
 }
