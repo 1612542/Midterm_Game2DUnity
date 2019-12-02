@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class MovingTrap2 : MonoBehaviour
 {
-    private Vector2 startPos, endPos, nextPos;
+    public Vector2 startPos, endPos, nextPos;
     public float speed = 0.4f;
 
     void Start()
     {
         nextPos = transform.position;
         startPos = transform.position;
-        endPos = new Vector2(8.3f, transform.position.y);
+        endPos = new Vector2(transform.position.x - 10.8f, transform.position.y);
     }
 
     void Update()

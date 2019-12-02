@@ -4,14 +4,14 @@ using UnityEngine;
 
 public class MovingTrap1 : MonoBehaviour
 {
-    private Vector2 startPos, endPos, nextPos;
-    private float speed = 0.4f;
+    public Vector2 startPos, endPos, nextPos;
+    public float speed = 1f;
 
     void Start()
     {
         nextPos = transform.position;
         startPos = transform.position;
-        endPos = new Vector2(16.78f, transform.position.y);
+        endPos = new Vector2(transform.position.x + 6.4f, transform.position.y);
     }
 
     void Update()
@@ -24,7 +24,6 @@ public class MovingTrap1 : MonoBehaviour
         {
             nextPos = startPos;
         }
-
         transform.position = Vector3.MoveTowards(transform.position, nextPos, speed * Time.deltaTime);
     }
 }

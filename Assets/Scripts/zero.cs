@@ -22,9 +22,15 @@ public class zero : MonoBehaviour
     public LayerMask enemy;
     int atkType=1;
 
+    public AudioSource startSound;
+    public AudioSource healthFillSound;
+    public AudioSource hurtSound;
+    public AudioSource defeatSound;
+
     // Start is called before the first frame update
     void Start()
     {
+        startSound.Play();
         speed = Time.deltaTime;
         deadRef = Resources.Load("dead");
     }
@@ -52,6 +58,7 @@ public class zero : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.C))
         {
+            GetComponent<AudioSource>().Play();
             atkType +=1;
             if (!onGround || atkType ==4) atkType=1;
             if (atkType==1){
@@ -77,6 +84,7 @@ public class zero : MonoBehaviour
 
         if ( Input.GetKeyDown(KeyCode.A) && !onGround)
         {
+            GetComponent<AudioSource>().Play();
             animator.SetTrigger("ice");
             Collider2D[] enemies = Physics2D.OverlapBoxAll(atkPos.position, new Vector2(iceRX, iceRY), 0, enemy);
             for (int i = 0; i < enemies.Length; i++)
@@ -87,6 +95,7 @@ public class zero : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.V))
         {
+            GetComponent<AudioSource>().Play();
             animator.SetTrigger("thunder");
             Collider2D[] enemies = Physics2D.OverlapBoxAll(thunderPos.position, new Vector2(thunderRX, thunderRY), 0, enemy);
             for (int i = 0; i < enemies.Length; i++)
@@ -120,6 +129,7 @@ public class zero : MonoBehaviour
         if (hp <= 0 && !deadEffect)
         {
             deadEffect = true;
+            defeatSound.Play();
             GameObject b = (GameObject)Instantiate(deadRef, tf.position, tf.rotation);
             gameObject.GetComponent<Renderer>().enabled = false;
         }
@@ -137,16 +147,19 @@ public class zero : MonoBehaviour
             rb.AddForce(-transform.right * 50);
             animator.Play("hurt");
             hp -= 20;
+            hurtSound.Play();
         }
         if (col.gameObject.tag == "hpItem"){
             hp+=50;
             if (hp >= MAXHP) hp =MAXHP;
             Destroy(col.gameObject);
+            healthFillSound.Play();
         }
         if (col.gameObject.tag == "mpItem"){
             mp+=50;
             if (mp >= MAXMP) mp =MAXMP;
             Destroy(col.gameObject);
+            healthFillSound.Play();
         }
     }
 
@@ -158,6 +171,7 @@ public class zero : MonoBehaviour
             animator.Play("hurt");
             hp -= 20;
             Destroy(col.gameObject);
+            hurtSound.Play();
         }
     }
 

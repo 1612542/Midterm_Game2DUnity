@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class MovingBase1 : MonoBehaviour
 {
-    private Vector2 pos1, pos2;
+    public Vector2 pos1, pos2;
     public float speed = 1f;
-    private Vector2 nextPos;
+    public Vector2 nextPos;
 
     public GameObject player;
 
