@@ -62516,7 +62516,7 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 2419153009887556026}
   m_PrefabAsset: {fileID: 0}
---- !u!1001 &3340720443748141571
+--- !u!1001 &6437481076212032184
 PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
@@ -62531,12 +62531,12 @@ PrefabInstance:
     - target: {fileID: 3771844656529487564, guid: b1dead7f41d87a740b4043cb4e7019e0,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3.19
+      value: -1.58
       objectReference: {fileID: 0}
     - target: {fileID: 3771844656529487564, guid: b1dead7f41d87a740b4043cb4e7019e0,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.64
+      value: -0.01
       objectReference: {fileID: 0}
     - target: {fileID: 3771844656529487564, guid: b1dead7f41d87a740b4043cb4e7019e0,
         type: 3}
@@ -62592,12 +62592,12 @@ PrefabInstance:
         type: 3}
       propertyPath: healthFillSound
       value: 
-      objectReference: {fileID: 1630772384}
+      objectReference: {fileID: 1957872612}
     - target: {fileID: 4218810687973072406, guid: b1dead7f41d87a740b4043cb4e7019e0,
         type: 3}
       propertyPath: hurtSound
       value: 
-      objectReference: {fileID: 1957872612}
+      objectReference: {fileID: 1630772384}
     - target: {fileID: 4218810687973072406, guid: b1dead7f41d87a740b4043cb4e7019e0,
         type: 3}
       propertyPath: defeatSound
