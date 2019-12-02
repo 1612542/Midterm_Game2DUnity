@@ -93,10 +93,6 @@ public class x : MonoBehaviour
     
     void OnCollisionEnter2D(Collision2D col)
     {
-        if(col.gameObject.tag == "ground")
-        {
-		  onGround = true;
-	    }
         if (col.gameObject.tag == "dietrap")
         {
             hp = 0;
@@ -124,5 +120,10 @@ public class x : MonoBehaviour
     {
         if(col.gameObject.tag == "ground")  
              onGround = false;
+    }
+    void OnCollisionStay2D(Collision2D col)
+    {
+        if(col.gameObject.tag == "ground")  
+             onGround = true;
     }
 }

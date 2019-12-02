@@ -16,7 +16,7 @@ GameObject:
   - component: {fileID: 7434100878386024252}
   m_Layer: 0
   m_Name: enemy2
-  m_TagString: Untagged
+  m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -146,6 +146,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firePoint: {fileID: 7434100879133136757}
+  player: {fileID: 0}
 --- !u!1 &7434100879133136762
 GameObject:
   m_ObjectHideFlags: 0
