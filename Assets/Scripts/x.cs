@@ -16,7 +16,6 @@ public class x : MonoBehaviour
     Object bulletRef2;
     Object deadRef;
     bool onGround = false;
-    public GameObject head;
     bool deadEffect = false;
 
     void Start()
@@ -51,13 +50,8 @@ public class x : MonoBehaviour
 
 	    if (Input.GetKeyDown(KeyCode.C) )
 	    {
-		    animator.SetBool("hitCV",true);
+		    animator.SetTrigger("hitCV");
 		    GameObject bullet = (GameObject)Instantiate(bulletRef, firePoint.position, firePoint.rotation);
-	    }
-
-	    if (Input.GetKeyUp(KeyCode.C) || Input.GetKeyUp(KeyCode.V) )
-	    {
-		    animator.SetBool("hitCV", false);
 	    }
 	
 	    if (Input.GetKeyDown(KeyCode.Z) && onGround  )
@@ -74,7 +68,7 @@ public class x : MonoBehaviour
 
 	    if (Input.GetKeyDown(KeyCode.V) )
         {
-            animator.SetBool("hitCV", true);
+            animator.SetTrigger("hitCV");
             if (mana > 0)
             {
                 GameObject bullet2 = (GameObject)Instantiate(bulletRef2, firePoint.position, firePoint.rotation);

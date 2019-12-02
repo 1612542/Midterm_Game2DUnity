@@ -13,7 +13,7 @@ public class ebullet : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-	    x = GameObject.Find("x");
+	    x = GameObject.FindGameObjectsWithTag("MegaMan")[0];
 	    speed = Random.Range(0.1f,2f);
         direction = x.transform.position - transform.position;
     }

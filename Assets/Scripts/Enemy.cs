@@ -11,12 +11,6 @@ public class Enemy : MonoBehaviour
     void Start(){
 	    explosionRef = Resources.Load("explosion1"); 
 	    hitRef = Resources.Load("hit");
-        if (tag == "bees" || tag == "mushroom")
-            health = 150;
-        else if (tag == "flying_face" || tag == "bats")
-            health = 200;
-        else if (tag == "bosscar")
-            health = 500;
     }
 
 

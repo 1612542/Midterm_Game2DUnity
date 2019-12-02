@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 7943249787173949196}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: firepoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -45,7 +45,7 @@ GameObject:
   - component: {fileID: 7943249788192577838}
   - component: {fileID: 7943249788192577824}
   - component: {fileID: 7943249788192577827}
-  m_Layer: 0
+  m_Layer: 8
   m_Name: enemy1
   m_TagString: enemy
   m_Icon: {fileID: 0}
@@ -198,4 +198,3 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   firePoint: {fileID: 7943249787173949196}
-  player: {fileID: 0}
