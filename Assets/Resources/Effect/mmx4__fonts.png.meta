@@ -1,0 +1,3830 @@
+fileFormatVersion: 2
+guid: ff38dc2c1fa001c45bd9be6ef535e89f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1792890121116029924
+    second: mmx4__fonts_0
+  - first:
+      213: -1860058525153243089
+    second: mmx4__fonts_1
+  - first:
+      213: 6797485021887925107
+    second: mmx4__fonts_2
+  - first:
+      213: 48605433852595198
+    second: mmx4__fonts_3
+  - first:
+      213: -3656050009797576689
+    second: mmx4__fonts_4
+  - first:
+      213: 9010836154240389780
+    second: mmx4__fonts_5
+  - first:
+      213: -8270852745354792330
+    second: mmx4__fonts_6
+  - first:
+      213: -2760239528690310090
+    second: mmx4__fonts_7
+  - first:
+      213: 143956909563202396
+    second: mmx4__fonts_8
+  - first:
+      213: 8804628665718092320
+    second: mmx4__fonts_9
+  - first:
+      213: -861556077641573246
+    second: mmx4__fonts_10
+  - first:
+      213: -5530165349941994773
+    second: mmx4__fonts_11
+  - first:
+      213: -7670045870006880313
+    second: mmx4__fonts_12
+  - first:
+      213: -1732271835619853659
+    second: mmx4__fonts_13
+  - first:
+      213: -3464418253211619789
+    second: mmx4__fonts_14
+  - first:
+      213: 6771875940326009024
+    second: mmx4__fonts_15
+  - first:
+      213: 7906704953724553794
+    second: mmx4__fonts_16
+  - first:
+      213: 7674895260867051570
+    second: mmx4__fonts_17
+  - first:
+      213: -7052477839815881090
+    second: mmx4__fonts_18
+  - first:
+      213: -7963392874492826252
+    second: mmx4__fonts_19
+  - first:
+      213: -9071395549617206095
+    second: mmx4__fonts_20
+  - first:
+      213: 784640825914161484
+    second: mmx4__fonts_21
+  - first:
+      213: -788734921867183588
+    second: mmx4__fonts_22
+  - first:
+      213: 2234893301264870668
+    second: mmx4__fonts_23
+  - first:
+      213: 203052381750026873
+    second: mmx4__fonts_24
+  - first:
+      213: 1053127468544784976
+    second: mmx4__fonts_25
+  - first:
+      213: 8751132714482705513
+    second: mmx4__fonts_26
+  - first:
+      213: -2059118511521416873
+    second: mmx4__fonts_27
+  - first:
+      213: -5511185326068866804
+    second: mmx4__fonts_28
+  - first:
+      213: -8495046945787841713
+    second: mmx4__fonts_29
+  - first:
+      213: 9151775069335662883
+    second: mmx4__fonts_30
+  - first:
+      213: -2834361418171461059
+    second: mmx4__fonts_31
+  - first:
+      213: 7998742840661054514
+    second: mmx4__fonts_32
+  - first:
+      213: -1518939884945966333
+    second: mmx4__fonts_33
+  - first:
+      213: -3296065890739740211
+    second: mmx4__fonts_34
+  - first:
+      213: 2858104499362963325
+    second: mmx4__fonts_35
+  - first:
+      213: -6997796950309271797
+    second: mmx4__fonts_36
+  - first:
+      213: 5846849105301856695
+    second: mmx4__fonts_37
+  - first:
+      213: -6673170620283010712
+    second: mmx4__fonts_38
+  - first:
+      213: 4830721301356247938
+    second: mmx4__fonts_39
+  - first:
+      213: -527847926720047993
+    second: mmx4__fonts_40
+  - first:
+      213: 388001137745485335
+    second: mmx4__fonts_41
+  - first:
+      213: -4655825769492042507
+    second: mmx4__fonts_42
+  - first:
+      213: 5249444568382814811
+    second: mmx4__fonts_43
+  - first:
+      213: -6405826333541196981
+    second: mmx4__fonts_44
+  - first:
+      213: 3295351854179502007
+    second: mmx4__fonts_45
+  - first:
+      213: -7457254821403055772
+    second: mmx4__fonts_46
+  - first:
+      213: 3794641562432882828
+    second: mmx4__fonts_47
+  - first:
+      213: -9051271350692475149
+    second: mmx4__fonts_48
+  - first:
+      213: -5348741623554993040
+    second: mmx4__fonts_49
+  - first:
+      213: -7786717627160492176
+    second: mmx4__fonts_50
+  - first:
+      213: 4501125796306830696
+    second: mmx4__fonts_51
+  - first:
+      213: -7943834467868427448
+    second: mmx4__fonts_52
+  - first:
+      213: -524817030668293013
+    second: mmx4__fonts_53
+  - first:
+      213: -6060435835713123017
+    second: mmx4__fonts_54
+  - first:
+      213: -7459020870227843961
+    second: mmx4__fonts_55
+  - first:
+      213: -8609187046251131101
+    second: mmx4__fonts_56
+  - first:
+      213: -7240157054407356490
+    second: mmx4__fonts_57
+  - first:
+      213: 4256308632295786786
+    second: mmx4__fonts_58
+  - first:
+      213: -2097086070324402071
+    second: mmx4__fonts_59
+  - first:
+      213: -5695850535606130222
+    second: mmx4__fonts_60
+  - first:
+      213: 2434011803772731494
+    second: mmx4__fonts_61
+  - first:
+      213: 9113112734040172778
+    second: mmx4__fonts_62
+  - first:
+      213: -3661035465246481401
+    second: mmx4__fonts_63
+  - first:
+      213: -6541551908751765608
+    second: mmx4__fonts_64
+  - first:
+      213: 8876411809933464099
+    second: mmx4__fonts_65
+  - first:
+      213: 9190322441280849813
+    second: mmx4__fonts_66
+  - first:
+      213: 6981660771041769300
+    second: mmx4__fonts_67
+  - first:
+      213: 1142090926777039879
+    second: mmx4__fonts_68
+  - first:
+      213: 1363733380841899790
+    second: mmx4__fonts_69
+  - first:
+      213: 6997765792326139637
+    second: mmx4__fonts_70
+  - first:
+      213: 4628914359728703830
+    second: mmx4__fonts_71
+  - first:
+      213: 6745663937974715324
+    second: mmx4__fonts_72
+  - first:
+      213: -3935448263293403541
+    second: mmx4__fonts_73
+  - first:
+      213: -8681930261434339809
+    second: mmx4__fonts_74
+  - first:
+      213: -7700126954783881983
+    second: mmx4__fonts_75
+  - first:
+      213: -6094848641008511406
+    second: mmx4__fonts_76
+  - first:
+      213: 642594385216628136
+    second: mmx4__fonts_77
+  - first:
+      213: 4572002695505774885
+    second: mmx4__fonts_78
+  - first:
+      213: -5240004823295800370
+    second: mmx4__fonts_79
+  - first:
+      213: -3563298454518747370
+    second: mmx4__fonts_80
+  - first:
+      213: 2021102801020015025
+    second: mmx4__fonts_81
+  - first:
+      213: -4353472362742078634
+    second: mmx4__fonts_82
+  - first:
+      213: 962697210585862372
+    second: mmx4__fonts_83
+  - first:
+      213: -8190023489762094082
+    second: mmx4__fonts_84
+  - first:
+      213: -2549690209124159184
+    second: mmx4__fonts_85
+  - first:
+      213: -2744817995027823048
+    second: mmx4__fonts_86
+  - first:
+      213: 1868673907141487983
+    second: mmx4__fonts_87
+  - first:
+      213: -3912105209802140314
+    second: mmx4__fonts_88
+  - first:
+      213: 6688572244712840777
+    second: mmx4__fonts_89
+  - first:
+      213: 8830313801938956921
+    second: mmx4__fonts_90
+  - first:
+      213: -7917437377186709553
+    second: mmx4__fonts_91
+  - first:
+      213: 1510045996798369226
+    second: mmx4__fonts_92
+  - first:
+      213: -1218981571328436625
+    second: mmx4__fonts_93
+  - first:
+      213: 4401872795611058413
+    second: mmx4__fonts_94
+  - first:
+      213: -2399606887032446420
+    second: mmx4__fonts_95
+  - first:
+      213: -4705766243239266092
+    second: mmx4__fonts_96
+  - first:
+      213: -5339343034156614660
+    second: mmx4__fonts_97
+  - first:
+      213: -9100700135261753663
+    second: mmx4__fonts_98
+  - first:
+      213: -3097583089716756271
+    second: mmx4__fonts_99
+  - first:
+      213: -4706050130728825048
+    second: mmx4__fonts_100
+  - first:
+      213: 5557048281434779257
+    second: mmx4__fonts_101
+  - first:
+      213: 372176870309959492
+    second: mmx4__fonts_102
+  - first:
+      213: 7384124465131029501
+    second: mmx4__fonts_103
+  - first:
+      213: 4164002788602245099
+    second: mmx4__fonts_104
+  - first:
+      213: 2352203342807132132
+    second: mmx4__fonts_105
+  - first:
+      213: -2055022766245729850
+    second: mmx4__fonts_106
+  - first:
+      213: 5273182997215184291
+    second: mmx4__fonts_107
+  - first:
+      213: 6930645898892963500
+    second: mmx4__fonts_108
+  - first:
+      213: 7792354105731209429
+    second: mmx4__fonts_109
+  - first:
+      213: -5444565848598725519
+    second: mmx4__fonts_110
+  - first:
+      213: 469225683668233961
+    second: mmx4__fonts_111
+  - first:
+      213: -8618134957464099352
+    second: mmx4__fonts_112
+  - first:
+      213: -4387104279561419425
+    second: mmx4__fonts_113
+  - first:
+      213: -2314790085039953491
+    second: mmx4__fonts_114
+  - first:
+      213: -4820435841973272924
+    second: mmx4__fonts_115
+  - first:
+      213: -9183313063882343786
+    second: mmx4__fonts_116
+  - first:
+      213: -8229661080820877187
+    second: mmx4__fonts_117
+  - first:
+      213: 2762250392121669844
+    second: mmx4__fonts_118
+  - first:
+      213: -7098205405322120150
+    second: mmx4__fonts_119
+  - first:
+      213: 8969304675072774986
+    second: mmx4__fonts_120
+  - first:
+      213: 7415812715830827341
+    second: mmx4__fonts_121
+  - first:
+      213: -6404292460357443621
+    second: mmx4__fonts_122
+  - first:
+      213: -7972398703591221133
+    second: mmx4__fonts_123
+  - first:
+      213: -3380850821526898375
+    second: mmx4__fonts_124
+  - first:
+      213: 7129033578329128628
+    second: mmx4__fonts_125
+  - first:
+      213: -8371131843866980947
+    second: mmx4__fonts_126
+  - first:
+      213: 7677621479778591364
+    second: mmx4__fonts_127
+  - first:
+      213: 1654906152119345939
+    second: mmx4__fonts_128
+  - first:
+      213: 6364229418609001254
+    second: mmx4__fonts_129
+  - first:
+      213: 2690751347617569563
+    second: mmx4__fonts_130
+  - first:
+      213: -7623913529924076544
+    second: mmx4__fonts_131
+  - first:
+      213: -3265362602575375657
+    second: mmx4__fonts_132
+  - first:
+      213: -683950527480160655
+    second: mmx4__fonts_133
+  - first:
+      213: 5529500533124552316
+    second: mmx4__fonts_134
+  - first:
+      213: 1743661873653228003
+    second: mmx4__fonts_135
+  - first:
+      213: -6114136431774183200
+    second: mmx4__fonts_136
+  - first:
+      213: 2435223747859411102
+    second: mmx4__fonts_137
+  - first:
+      213: -4416276171932321815
+    second: mmx4__fonts_138
+  - first:
+      213: -5331241366901943486
+    second: mmx4__fonts_139
+  - first:
+      213: -5089519294427347854
+    second: mmx4__fonts_140
+  - first:
+      213: 1564320750725906808
+    second: mmx4__fonts_141
+  - first:
+      213: 2293661856681500652
+    second: mmx4__fonts_142
+  - first:
+      213: 1339869243005440548
+    second: mmx4__fonts_143
+  - first:
+      213: 6230294639719230359
+    second: mmx4__fonts_144
+  - first:
+      213: -3121893101852597440
+    second: mmx4__fonts_145
+  - first:
+      213: -5846801680981047818
+    second: mmx4__fonts_146
+  - first:
+      213: -7562710785120902985
+    second: mmx4__fonts_147
+  - first:
+      213: -4228997697720662792
+    second: mmx4__fonts_148
+  - first:
+      213: 2173143763076276781
+    second: mmx4__fonts_149
+  - first:
+      213: -1944902547386874781
+    second: mmx4__fonts_150
+  - first:
+      213: -4882288745440825705
+    second: mmx4__fonts_151
+  - first:
+      213: -5450949422043525265
+    second: mmx4__fonts_152
+  - first:
+      213: -1731006291969231672
+    second: mmx4__fonts_153
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mmx4__fonts_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 163
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7a7452922f9cdd498f299f986ebfa75
+      internalID: 1792890121116029924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_1
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 163
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe81faa88c6c20c42b7158e423273c75
+      internalID: -1860058525153243089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_2
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 164
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ebf3756bc38ea49bb14e1350798c7b
+      internalID: 6797485021887925107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_3
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 163
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb2875a5cb0ea4548973931aa32de449
+      internalID: 48605433852595198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_4
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 163
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92f11ea69f8da343a3239ada88cc5b3
+      internalID: -3656050009797576689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_5
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 163
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4831ef948de69dd448633695971edcf5
+      internalID: 9010836154240389780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_6
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 163
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 428af6f88914c0b4699e5fc69c532322
+      internalID: -8270852745354792330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_7
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 163
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b964340fd914c5544b2a7ef4ec382d31
+      internalID: -2760239528690310090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 163
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bddee58f1dc6d6f45842a924d48b0726
+      internalID: 143956909563202396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_9
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 163
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 644acfd29d7d5c34c847f7f53d6fb939
+      internalID: 8804628665718092320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_10
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 163
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c94872d511aac4e9fa5f60e374b4a0
+      internalID: -861556077641573246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 164
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba1a8cac15918e48b1dd00fabb1c0a9
+      internalID: -5530165349941994773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_12
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 163
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a540e59497dda44fafdb66b4de240d9
+      internalID: -7670045870006880313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_13
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 164
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e600a31a0788a3d43a6d2716c01cf16e
+      internalID: -1732271835619853659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_14
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 164
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a04705def4057e7448c41138a384365c
+      internalID: -3464418253211619789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_15
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 163
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dddc1b5782bd864ba95953116324e2b
+      internalID: 6771875940326009024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ae44e7aba45354aa2f1253599570d2
+      internalID: 7906704953724553794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_17
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 147
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53726134b9ec10d44ad33270531adb72
+      internalID: 7674895260867051570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 147
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f03e54cbb8c8f47bf3615acbedbf13
+      internalID: -7052477839815881090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_19
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 147
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3c642e2ec3cee544ba99a09339f4fc3
+      internalID: -7963392874492826252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_20
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6a86379492e1b458f4bc69d27e6861
+      internalID: -9071395549617206095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_21
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 148
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121428ac0ff22884185d0828147c04de
+      internalID: 784640825914161484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 147
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c231247ac4690d64094daf2572a71e10
+      internalID: -788734921867183588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_23
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 147
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3276ab87f4d7003488db7cf0bf75c9aa
+      internalID: 2234893301264870668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_24
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0505e47f9b90a5e41b0b914f5fa80f76
+      internalID: 203052381750026873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_25
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b8af0338a666e449af92281b640201e
+      internalID: 1053127468544784976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_26
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64076aae1a02f142a82e1231163335b
+      internalID: 8751132714482705513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_27
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d882619125e13349abedf839958bf5d
+      internalID: -2059118511521416873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017935292cf10eb4986f76f605d4b715
+      internalID: -5511185326068866804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_29
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dfaebb6544c9b340ae6b79153970a4a
+      internalID: -8495046945787841713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_30
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 147
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76afc125e68916b4784c1f92112be670
+      internalID: 9151775069335662883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_31
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 147
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 627a68aff7232ca419767ceda311b25a
+      internalID: -2834361418171461059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 131
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b3b4cdab70814d48862aacf043417c3
+      internalID: 7998742840661054514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_33
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 131
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5800547526ca04da0dd1649add55d4
+      internalID: -1518939884945966333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 131
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab924bc2bf065f4a998ae7cee246697
+      internalID: -3296065890739740211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_35
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 132
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e58fa4b2cb4d4749a3fd21d86c5fe90
+      internalID: 2858104499362963325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_36
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 132
+        width: 27
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5070911303520d74a87045f461be523f
+      internalID: -6997796950309271797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_37
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 133
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189aa88ae1d940040bd85c0a693202e3
+      internalID: 5846849105301856695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_38
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 130
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94633f164bc19846a9a2c5e59c39b84
+      internalID: -6673170620283010712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_39
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 130
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ece8cc8d74b54f4eb54c5ebb249d802
+      internalID: 4830721301356247938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_40
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 135
+        width: 25
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c420f8553dccc469be00f958e09a98
+      internalID: -527847926720047993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_41
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 132
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c8b4e71a41d694faece611880a2df2
+      internalID: 388001137745485335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_42
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 132
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48615f536aae23e49bc6ee187248cdec
+      internalID: -4655825769492042507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 130
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1728446fafb04af4d98f717d1f0b705b
+      internalID: 5249444568382814811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_44
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 115
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a26d2261fab2eef488955b99a08f50ce
+      internalID: -6405826333541196981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_45
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 114
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df637a0ef6b77474db65f5fc793937c9
+      internalID: 3295351854179502007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_46
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 115
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f59a7b491346c84c83875c7eff27a69
+      internalID: -7457254821403055772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_47
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 115
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b029d342c2591464d93376f44f880af1
+      internalID: 3794641562432882828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_48
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 114
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d142135aa715a64fb48014bd1b7507a
+      internalID: -9051271350692475149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_49
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2be835c4728322c48a3494506009aeac
+      internalID: -5348741623554993040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 114
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb7e2407a47c5e48a2c0455d39af7da
+      internalID: -7786717627160492176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_51
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 114
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 721d61500cc654a43a3cb1242e272308
+      internalID: 4501125796306830696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_52
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c2770db10d7e64db8f26b755f2b082
+      internalID: -7943834467868427448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_53
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 114
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60253321ff7da4542a5adf67228edc72
+      internalID: -524817030668293013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_54
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 114
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a851def67ddd2aa4bb696658e569a5c5
+      internalID: -6060435835713123017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_55
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48732f674fc01a4428105ba22b5ef3fb
+      internalID: -7459020870227843961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_56
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d20bcc3791b21174a9d3138ff36e9df8
+      internalID: -8609187046251131101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_57
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 115
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c452e36470fb5b489da100dc436054c
+      internalID: -7240157054407356490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_58
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e70d29dd89268b4ba1696f5caeba55b
+      internalID: 4256308632295786786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_59
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 115
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f098ac8a3816e7438be2e2b15a85e18
+      internalID: -2097086070324402071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_60
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4680693774b0c9e42a1f79f72fbd83fe
+      internalID: -5695850535606130222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_61
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae8309792de9684d9f2a72acc4b2a51
+      internalID: 2434011803772731494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_62
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 99
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fac21537ef0fc4bafa816aa055116c
+      internalID: 9113112734040172778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_63
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 99
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe8c079015640da47b7d37505de0c24e
+      internalID: -3661035465246481401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_64
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 99
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7818bcd668df72740a265a26dd79e913
+      internalID: -6541551908751765608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_65
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 99
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eef4fad20bb32c64282247ccd288acb7
+      internalID: 8876411809933464099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_66
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 99
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 560acb25b44cc4648add0f5b95f481ab
+      internalID: 9190322441280849813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_67
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36edfa297fb8634db7aef7df1784b56
+      internalID: 6981660771041769300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_68
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43018a09614af245875587ea13edd8d
+      internalID: 1142090926777039879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_69
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 99
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8d0fcb45a919c54687cd9da2f0ae9fb
+      internalID: 1363733380841899790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_70
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 98
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4561c3483c4e8ad43bd483806a5b1307
+      internalID: 6997765792326139637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_71
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022faf6c9734b0a45ab075713f62baa2
+      internalID: 4628914359728703830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_72
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 99
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4f1d8be918ad1941ab9c102845db930
+      internalID: 6745663937974715324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_73
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 99
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee34088b3fa03240a24b729dbb89f5c
+      internalID: -3935448263293403541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_74
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 99
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7c052d3470aa8f4faf96068fc8fe3ef
+      internalID: -8681930261434339809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_75
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 99
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75ae7ca13a1edc4db6a6a28bec14f99
+      internalID: -7700126954783881983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_76
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 83
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f44b4b2149cbe3468881d8f9d876b07
+      internalID: -6094848641008511406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_77
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 83
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 326b56debbd1cc84bb4e4c713b46624e
+      internalID: 642594385216628136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 83
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab660610c0dea34daf330a760e50731
+      internalID: 4572002695505774885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_79
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 83
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cceb4616ac73384eb291b34199ce4f0
+      internalID: -5240004823295800370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_80
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40784e03580020742b9efa29d36f4555
+      internalID: -3563298454518747370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_81
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ea95eb7c9d9904c8bbab4d2134a204
+      internalID: 2021102801020015025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_82
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53fd27c3fe00e61439033780bb795871
+      internalID: -4353472362742078634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_83
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 83
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9445f79980fdde14f9880e13aed0af90
+      internalID: 962697210585862372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_84
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5174abcfeab694b8b22de3571a0d14
+      internalID: -8190023489762094082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_85
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 83
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d28fff25b901070449c215fbd7692ff5
+      internalID: -2549690209124159184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_86
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 80
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8f2a4c6de8221428ebde350ec045f6
+      internalID: -2744817995027823048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_87
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4b487a56120b144800ba6545ffa73c
+      internalID: 1868673907141487983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_88
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 83
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4490a92a2f4dc6e47aadf3b5c31d7cd5
+      internalID: -3912105209802140314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_89
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 80
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36a0fe66879e31f4dabef5ca372d6454
+      internalID: 6688572244712840777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_90
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e2833b83a2687946aa2dca83a743faf
+      internalID: 8830313801938956921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_91
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 83
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16145460d59a30d44b2fd0d0d6d1d94c
+      internalID: -7917437377186709553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 67
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e947bbfc7abd5b418851262fc6d01f7
+      internalID: 1510045996798369226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_93
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 802aedc2ae6dd4545adc2bded44d65dc
+      internalID: -1218981571328436625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_94
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a80aa0de7e03174abed4fa925ece83f
+      internalID: 4401872795611058413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_95
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 64
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565e693b33d162542837356acfc687ed
+      internalID: -2399606887032446420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_96
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 55
+        width: 8
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df59b53a816f51041986a3b0ff495c31
+      internalID: -4705766243239266092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_97
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 67
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adbc38382dc13214784388c1e726f702
+      internalID: -5339343034156614660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_98
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 67
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76e5ed2d4048e847bf867c515ef3bb0
+      internalID: -9100700135261753663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_99
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 67
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518a6f68d5d175c4a8169f4540a83deb
+      internalID: -3097583089716756271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_100
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b10351c8b10dcb4ea73932dc9b9c458
+      internalID: -4706050130728825048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_101
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 67
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75900f30cee101e48bd0071007137699
+      internalID: 5557048281434779257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_102
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 67
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07fe88c73ec39d24eb2402cd6344296e
+      internalID: 372176870309959492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_103
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 59
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b27f383b1699c44824c96be508733d
+      internalID: 7384124465131029501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_104
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 54
+        width: 8
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c40657f3051a64892b45622fe5d05f
+      internalID: 4164002788602245099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_105
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 54
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 657cc22b9a305ff499c9b81cdc582c34
+      internalID: 2352203342807132132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_106
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 67
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58249e54cd206b347b3437abed97c3b6
+      internalID: -2055022766245729850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_107
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 66
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53cb51324d0e51b4d89acc88b1b47bd4
+      internalID: 5273182997215184291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 50
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ff64925e51ca3409fec1bc5c8f8332
+      internalID: 6930645898892963500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_109
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 52
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8e63b62deabca45903056996def25c
+      internalID: 7792354105731209429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_110
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 51
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e7475895bc0114ba08c3f2cb0fd016
+      internalID: -5444565848598725519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_111
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 51
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c19ee52a6ad68264db5f5d042632d302
+      internalID: 469225683668233961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_112
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 59
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac7387837ccc2142935ca1ae8e049a5
+      internalID: -8618134957464099352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_113
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 59
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cce7454c26774ba40851fb32cb7a4a0f
+      internalID: -4387104279561419425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_114
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 52
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebd3fe2b5c4202e49993ff9646c80b51
+      internalID: -2314790085039953491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_115
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 52
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a7f6b7e5ab8a124a8fa4d5f3c3685f8
+      internalID: -4820435841973272924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_116
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 33
+        width: 7
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd85bb8147c6d3542832ce69a8640262
+      internalID: -9183313063882343786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_117
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 33
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb450165cb893744bae0403db7d677f
+      internalID: -8229661080820877187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_118
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 33
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2047169e53c3f0940929bb5e1ce26277
+      internalID: 2762250392121669844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_119
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 34
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a71361b22b180848ac5342c00588745
+      internalID: -7098205405322120150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_120
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 34
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b48b0951fa2cad4cbfbcab157f5974d
+      internalID: 8969304675072774986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_121
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 33
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b256554dd6353ad4a8bea11d5a8519c1
+      internalID: 7415812715830827341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_122
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 33
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d2f9c55df71f94ea69a5a11a0ac1cd
+      internalID: -6404292460357443621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_123
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 34
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe6429fc4a4a9f499050fe63996bc4a
+      internalID: -7972398703591221133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_124
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 33
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfe799885a3e8c48ad36658d3888e60
+      internalID: -3380850821526898375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_125
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 33
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500da67a38c3abd44b5c5740a7f779f0
+      internalID: 7129033578329128628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_126
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5a17bc6f84d9ce4aacf805d0573951a
+      internalID: -8371131843866980947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_127
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a49b4c32786b440aad2614cb8b99f3
+      internalID: 7677621479778591364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_128
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b9dbfb1e646c1409deb9a999a6a274
+      internalID: 1654906152119345939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_129
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0412c1851e34174a85129cff99a8f9c
+      internalID: 6364229418609001254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_130
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 34
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ff92cca13a7a6348b751123878e893d
+      internalID: 2690751347617569563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_131
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 34
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407c7f08c84bd4f438cc4edae2daa5e1
+      internalID: -7623913529924076544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_132
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 18
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92dc9a7bcc0fef4d9bb3500317d6c47
+      internalID: -3265362602575375657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_133
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 18
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b62b342faa801dc479d6c800135282ea
+      internalID: -683950527480160655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_134
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 18
+        width: 4
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14976bfc07094fa4eafb3ed121567ebf
+      internalID: 5529500533124552316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_135
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 996718899df739a4caa9618bbd5fcc3a
+      internalID: 1743661873653228003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_136
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0bb7db3ce34919479606229516418f6
+      internalID: -6114136431774183200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_137
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84a2ca8f6bfdd74e8e7a0a83831fbcd
+      internalID: 2435223747859411102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_138
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 18
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffd907e8fd2ce074a8df4818b35836f5
+      internalID: -4416276171932321815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_139
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 18
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff4f10de17219b488c6d71d528e222d
+      internalID: -5331241366901943486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_140
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 18
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34fea0da2ba80ed4fa293dc24aca1e7b
+      internalID: -5089519294427347854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_141
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 5
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8e91279a9f1ee349b7c827aacd59388
+      internalID: 1564320750725906808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_142
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a465096388f6046bc54f6f8f35cd71
+      internalID: 2293661856681500652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_143
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 18
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d9c2f7bd7f40c04ea7ae6bc5a4a882c
+      internalID: 1339869243005440548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_144
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 18
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea42d97c38c53a42b4b279ec062e213
+      internalID: 6230294639719230359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_145
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd0fae093af2494f9df0359cec9b8d5
+      internalID: -3121893101852597440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_146
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 18
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01b5d3d2322fa24dbfb7f6e2a80baa4
+      internalID: -5846801680981047818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_147
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 18
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711d81a553c8d8a4bb120cc152612e2a
+      internalID: -7562710785120902985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7566bdf8929eba042a5c2cb3808bd932
+      internalID: -4228997697720662792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_149
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8e1583c2d4a034aa82269d14ad0d17
+      internalID: 2173143763076276781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_150
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 2
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c566ae8cfb91844f831e6302c9c76fe
+      internalID: -1944902547386874781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_151
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a1c64899e88374494921ed9d85e3b1
+      internalID: -4882288745440825705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_152
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 0
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a098123b41fc7a4a80dcbc8b249d029
+      internalID: -5450949422043525265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mmx4__fonts_153
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91e535cb02f2dd44a5e2f4ece6b66c4
+      internalID: -1731006291969231672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 87bde29da1c9050469d93b69d7983def
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

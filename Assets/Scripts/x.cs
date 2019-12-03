@@ -151,7 +151,7 @@ public class x : MonoBehaviour
     }
     void OnCollisionStay2D(Collision2D col)
     {
-        if(col.gameObject.tag == "ground")  
+        if (col.gameObject.tag == "ground")
              onGround = true;
     }
 }

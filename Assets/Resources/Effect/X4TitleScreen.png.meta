@@ -1,0 +1,1022 @@
+fileFormatVersion: 2
+guid: 3a3a628b2969fd0409df76d4e38f603d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4611323678105114788
+    second: X4TitleScreen_0
+  - first:
+      213: -4573132840936077581
+    second: X4TitleScreen_1
+  - first:
+      213: 441495992916631570
+    second: X4TitleScreen_2
+  - first:
+      213: 39908217393420684
+    second: X4TitleScreen_3
+  - first:
+      213: -7702856895162337836
+    second: X4TitleScreen_4
+  - first:
+      213: 221246087260285643
+    second: X4TitleScreen_5
+  - first:
+      213: 8767362965470971610
+    second: X4TitleScreen_6
+  - first:
+      213: 8242677319778791054
+    second: X4TitleScreen_7
+  - first:
+      213: -8647476500039545573
+    second: X4TitleScreen_8
+  - first:
+      213: 1349189765610458038
+    second: X4TitleScreen_9
+  - first:
+      213: -1225124581974923267
+    second: X4TitleScreen_10
+  - first:
+      213: -7724519220505938522
+    second: X4TitleScreen_11
+  - first:
+      213: 4155946562279498009
+    second: X4TitleScreen_12
+  - first:
+      213: 6593580276762238024
+    second: X4TitleScreen_13
+  - first:
+      213: -8852762240169298377
+    second: X4TitleScreen_14
+  - first:
+      213: 3007706726173721770
+    second: X4TitleScreen_15
+  - first:
+      213: 5739456376659817398
+    second: X4TitleScreen_16
+  - first:
+      213: 7704283463258028027
+    second: X4TitleScreen_17
+  - first:
+      213: -4307043458551936973
+    second: X4TitleScreen_18
+  - first:
+      213: -6895001996050283788
+    second: X4TitleScreen_19
+  - first:
+      213: 4203684346920438278
+    second: X4TitleScreen_20
+  - first:
+      213: 1219269116719892677
+    second: X4TitleScreen_21
+  - first:
+      213: -4856975070686688082
+    second: X4TitleScreen_22
+  - first:
+      213: -5598446048593663436
+    second: X4TitleScreen_23
+  - first:
+      213: -639884880645318275
+    second: X4TitleScreen_24
+  - first:
+      213: 514144476092368062
+    second: X4TitleScreen_25
+  - first:
+      213: 6660445272332966413
+    second: X4TitleScreen_26
+  - first:
+      213: -4830391016132686634
+    second: X4TitleScreen_27
+  - first:
+      213: 5361714664156717510
+    second: X4TitleScreen_28
+  - first:
+      213: -1705454905251415730
+    second: X4TitleScreen_29
+  - first:
+      213: 2847060261170613293
+    second: X4TitleScreen_30
+  - first:
+      213: 2819827615308234768
+    second: X4TitleScreen_31
+  - first:
+      213: 3074400874547975497
+    second: X4TitleScreen_32
+  - first:
+      213: -8811708530625735688
+    second: X4TitleScreen_33
+  - first:
+      213: 7525060688266924553
+    second: X4TitleScreen_34
+  - first:
+      213: -9199737602332819407
+    second: X4TitleScreen_35
+  - first:
+      213: -1390339506105819867
+    second: X4TitleScreen_36
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: X4TitleScreen_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 543
+        width: 320
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cf001f69c0739b4784436e560ed0d37
+      internalID: 4611323678105114788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_1
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 723
+        width: 209
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1bcf32d0771d9b478e9553f99823e03
+      internalID: -4573132840936077581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_2
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 756
+        width: 40
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1fa4fa51aa14f4db11f7577c15ba8a
+      internalID: 441495992916631570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_3
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 756
+        width: 38
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b19936509bd69741beecbdd7eae49ae
+      internalID: 39908217393420684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_4
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 756
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0a91abb34be9e47a3b5676f8fd5fcf
+      internalID: -7702856895162337836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_5
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 756
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0290a660ad560f14aae5c9a567c4afd9
+      internalID: 221246087260285643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_6
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 730
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50245f7c5cc62a74f88dbf7e6d0b3da0
+      internalID: 8767362965470971610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_7
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 730
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014492fcd844a844ab1a215e8ff6f324
+      internalID: 8242677319778791054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_8
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 730
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02ecc92a3b524644bfe06ad3e6c8b19
+      internalID: -8647476500039545573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_9
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 730
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6252311aff79e045bebb7cf833aa88f
+      internalID: 1349189765610458038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_10
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 730
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8979a0fbc13bf074b83204abeecd3fb6
+      internalID: -1225124581974923267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_11
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 730
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72736000e088d264d8f7c14e4515c195
+      internalID: -7724519220505938522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_12
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 714
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f9f4f6c4ae41744b4a4ff0eb34920d
+      internalID: 4155946562279498009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_13
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 714
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c30cb98dd595bb4db82837a9278adff
+      internalID: 6593580276762238024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_14
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 714
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd23e9eeb0067f74eb2da065d7a4f9c7
+      internalID: -8852762240169298377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_15
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 714
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e6318664cf3a2c4a9c080816d9a45c7
+      internalID: 3007706726173721770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_16
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 698
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4638e605cce7d441808d5b91c22fd01
+      internalID: 5739456376659817398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_17
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 698
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca7d048ce6cd7204b86079ad4f7bca27
+      internalID: 7704283463258028027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_18
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 594
+        width: 232
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08028338b0246324aa8fae2cd3f3597a
+      internalID: -4307043458551936973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_19
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 668
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49b55a6b24958054396a904622d52e42
+      internalID: -6895001996050283788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_20
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 668
+        width: 31
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b646bf8ef3035f3439e0de0df550fa27
+      internalID: 4203684346920438278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_21
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 668
+        width: 43
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1de582a9b2cb84f9f8529010163102
+      internalID: 1219269116719892677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_22
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 604
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3388798c2da28498ecff2e2d6713cf
+      internalID: -4856975070686688082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_23
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 652
+        width: 34
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b126e05708287e4b85aa57a40887575
+      internalID: -5598446048593663436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_24
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 652
+        width: 33
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 314aa3b14e01ee445aac35ca9d04926f
+      internalID: -639884880645318275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_25
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 636
+        width: 51
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30305f49b1885ac4f885fdf00a07ea35
+      internalID: 514144476092368062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_26
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 422
+        width: 286
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e05efb71b5a7745be219bf3a8e9af4
+      internalID: 6660445272332966413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_27
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 426
+        width: 286
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cfad2cf5df5c740a28807a6df257e2
+      internalID: -4830391016132686634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_28
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 432
+        width: 286
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeec71564791f0442bfa354fce346e83
+      internalID: 5361714664156717510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_29
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 299
+        width: 286
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac52f381c3aa45409e4bfe9b5ec4f5f
+      internalID: -1705454905251415730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_30
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 291
+        width: 286
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d52ddecb5a3d7e448829bd32f41eed74
+      internalID: 2847060261170613293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_31
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 297
+        width: 286
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c073014930b3414fa2c6eb758e85352
+      internalID: 2819827615308234768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 286
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ed5a133aed2aa4890c99c9c376e09b
+      internalID: 3074400874547975497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_33
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 170
+        width: 286
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edd3d559f7faa04fb1c3bbb57290dc4
+      internalID: -8811708530625735688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_34
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 175
+        width: 286
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc2f6f7820cc7b4880c261c0f927db0
+      internalID: 7525060688266924553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_35
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 10
+        width: 286
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c19f5a255fc7841a841bbc53522cba
+      internalID: -9199737602332819407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: X4TitleScreen_36
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 14
+        width: 286
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9ca11a24922934989b10d1a2d3cd48
+      internalID: -1390339506105819867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e4c6bc99c2be5d49a6397ba046d1ae3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

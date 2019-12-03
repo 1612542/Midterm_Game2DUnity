@@ -1,0 +1,566 @@
+fileFormatVersion: 2
+guid: 4436987ed44d88b408721ffdf61b5df8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3766113669420832734
+    second: Medieval-Buttons-cover_0
+  - first:
+      213: 32642997313354705
+    second: Medieval-Buttons-cover_1
+  - first:
+      213: 2367689980201800346
+    second: Medieval-Buttons-cover_2
+  - first:
+      213: -7782938961678224434
+    second: Medieval-Buttons-cover_3
+  - first:
+      213: -8821111051964290717
+    second: Medieval-Buttons-cover_4
+  - first:
+      213: -8610698319029346496
+    second: Medieval-Buttons-cover_5
+  - first:
+      213: 7187710007648775946
+    second: Medieval-Buttons-cover_6
+  - first:
+      213: -2064929800224383137
+    second: Medieval-Buttons-cover_7
+  - first:
+      213: -3924714813750136353
+    second: Medieval-Buttons-cover_8
+  - first:
+      213: -5678377524060843579
+    second: Medieval-Buttons-cover_9
+  - first:
+      213: 6849956021393841921
+    second: Medieval-Buttons-cover_10
+  - first:
+      213: 2534632007954874531
+    second: Medieval-Buttons-cover_11
+  - first:
+      213: -8726196007443616151
+    second: Medieval-Buttons-cover_12
+  - first:
+      213: 2487920071280327370
+    second: Medieval-Buttons-cover_13
+  - first:
+      213: -3911522429888820151
+    second: Medieval-Buttons-cover_14
+  - first:
+      213: -5845455477944179734
+    second: Medieval-Buttons-cover_15
+  - first:
+      213: -2852954941810411800
+    second: Medieval-Buttons-cover_16
+  - first:
+      213: -1277074954539810750
+    second: Medieval-Buttons-cover_17
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_0
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 450
+        width: 5
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4732deb357c6a46a262019712fc74b
+      internalID: -3766113669420832734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_1
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 347
+        width: 114
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 727c87a5370822d4db8e37191908b580
+      internalID: 32642997313354705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_2
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 352
+        width: 178
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e41c59e9f7f8c04ea52d184f2ee73b6
+      internalID: 2367689980201800346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_3
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 255
+        width: 207
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9241f6b46b7b742a36440c1a7f824f
+      internalID: -7782938961678224434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 349
+        width: 207
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d93ccc4561dc00c499d0298824de7449
+      internalID: -8821111051964290717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 258
+        width: 178
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1cd28979e8d2941850fe102ff9519f
+      internalID: -8610698319029346496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_6
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 232
+        width: 112
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e739ee82f861e42a3642827c207daf
+      internalID: 7187710007648775946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 150
+        width: 177
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8f117496380314da30f3c799527c1b
+      internalID: -2064929800224383137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 220
+        width: 43
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549825e53cb81b5469f0f04d7a494ef8
+      internalID: -3924714813750136353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 129
+        width: 207
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cc454db221de84bb9404916e7bfd05
+      internalID: -5678377524060843579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_10
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 166
+        width: 4
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 013743776427b5244a3931afe76ffd31
+      internalID: 6849956021393841921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_11
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 164
+        width: 4
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02a4838367142c8498785c5c32eed231
+      internalID: 2534632007954874531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_12
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 39
+        width: 113
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a3bc44cb24014c448463d2c9f3451d1
+      internalID: -8726196007443616151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_13
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 144
+        width: 100
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45494d86b5678084abb1a3160fd76094
+      internalID: 2487920071280327370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 38
+        width: 207
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e25703e3e67541e4b8e7c1ce730481dc
+      internalID: -3911522429888820151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 84
+        width: 4
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5e57dddd07e4e4da5694bd05d9fcb1
+      internalID: -5845455477944179734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_16
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 55
+        width: 177
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c17fe1d0ec5f284ab213bd375beba53
+      internalID: -2852954941810411800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Medieval-Buttons-cover_17
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 83
+        width: 5
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6554f11b7bb13a48bfdee466bcae9b4
+      internalID: -1277074954539810750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 702c071a4617fbc438096d6fb07f8ac9
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
