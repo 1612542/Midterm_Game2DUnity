@@ -8,6 +8,9 @@
 Nhóm làm game MegaMan
 Đây là một game 2D nhập vai, người chơi sẽ vào vai một siêu chiến binh robot được cử đi chiến đấu với các cỗ máy tối tân.
 
+# Link video demo của nhóm
+- https://www.youtube.com/watch?v=QREnJWHgunE&fbclid=IwAR1bjuduH67yC_9oMbAWr9ud6W1PL64McobHsnaXbJ44mslAmwlyYMpLbEQ
+
 # Phiên bản Unity
 2019.1.4.f1
 
