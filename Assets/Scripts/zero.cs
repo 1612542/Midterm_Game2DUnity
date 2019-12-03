@@ -109,9 +109,9 @@ public class zero : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Z) && onGround)
         {
             if (tf.rotation.y == 0)
-                rb.AddForce(new Vector2(150, 0));
+                rb.AddForce(new Vector2(130, 0));
             else
-                rb.AddForce(new Vector2(-150, 0));
+                rb.AddForce(new Vector2(-130, 0));
             animator.SetBool("hitZ", true);
         }
 

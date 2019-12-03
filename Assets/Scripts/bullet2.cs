@@ -11,17 +11,15 @@ public class bullet2 : MonoBehaviour
     void Start()
     {
 	    rb.velocity = transform.right * 5f;
-	    Invoke("DestroyS", 2f);
     }
 
-    private void DestroyS()
-    {
-	Destroy(gameObject);
-    }
 
     void OnTriggerEnter2D(Collider2D col)
     {
 	    Enemy enemy = col.GetComponent<Enemy>();
 	    if (enemy != null) enemy.TakeDamage(damage);
+    }
+    void OnBecameInvisible(){
+        Destroy(gameObject);
     }
 }

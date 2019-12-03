@@ -9,7 +9,7 @@ public class enemy5 : MonoBehaviour
 
     void Start()
     {
-	    x = GameObject.Find("x");
+	    x = GameObject.FindGameObjectWithTag("MegaMan");
         rb.velocity = -transform.right * 0.5f;
     }
 

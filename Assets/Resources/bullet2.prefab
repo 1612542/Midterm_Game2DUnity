@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: -3861616370753359807}
   - component: {fileID: 7384034151783636981}
   - component: {fileID: 8708774980716471548}
-  - component: {fileID: 1559961782}
+  - component: {fileID: 6051587647604738104}
   m_Layer: 0
   m_Name: bullet2
   m_TagString: Untagged
@@ -150,7 +150,7 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!114 &1559961782
+--- !u!114 &6051587647604738104
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}

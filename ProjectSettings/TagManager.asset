@@ -4,19 +4,19 @@
 TagManager:
   serializedVersion: 2
   tags:
+  - Undefined
   - ground
   - enemy
-  - ebullet
   - MegaMan
-  - trap
-  - electric_trap
-  - fire_trap
+  - ebullet
   - dietrap
   - moving_trap
   - ebullet3
   - hpItem
   - mpItem
-  - Zero
+  - fire_trap
+  - electric_trap
+  - trap
   layers:
   - Default
   - TransparentFX
