@@ -12,6 +12,6 @@ Nhóm làm game MegaMan
 2019.1.4.f1
 
 # Các reference tham khảo
-https://www.sprites-inc.co.uk/sprite.php?local=X/X4/Misc/Menus/
-https://www.youtube.com/watch?v=05VX2N9_2_4
-https://www.youtube.com/watch?v=jHLr_YWWuyw&list=PLCqjfeAzeHipgsRPjgzsGLZVIBe0sTkN9&index=27
+- https://www.sprites-inc.co.uk/sprite.php?local=X/X4/Misc/Menus/
+- https://www.youtube.com/watch?v=05VX2N9_2_4
+- https://www.youtube.com/watch?v=jHLr_YWWuyw&list=PLCqjfeAzeHipgsRPjgzsGLZVIBe0sTkN9&index=27
