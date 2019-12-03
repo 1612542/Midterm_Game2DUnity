@@ -2,7 +2,7 @@
 
 # Nhóm Quốc-Hùng
 Trần Ngọc Quốc - 1612542 
-Hoàng Phú Hùng - 1612233
+- Hoàng Phú Hùng - 1612233
 
 # Giới thiệu sơ lược về trò chơi
 Nhóm làm game MegaMan
