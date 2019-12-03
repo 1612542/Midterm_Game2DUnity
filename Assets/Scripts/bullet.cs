@@ -5,7 +5,7 @@ using UnityEngine;
 public class bullet : MonoBehaviour
 {
 	public Rigidbody2D rb;
-	public int damage = 40;
+	public int damage = 80;
 
     // Start is called before the first frame update
     void Start()

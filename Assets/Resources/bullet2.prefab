@@ -163,4 +163,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rb: {fileID: 7384034151783636981}
-  damage: 80
+  damage: 120
