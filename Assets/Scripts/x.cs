@@ -20,10 +20,7 @@ public class x : MonoBehaviour
     bool onGround = false;
     bool deadEffect = false;
 
-    public AudioSource startSound;
-    public AudioSource healthFillSound;
-    public AudioSource hurtSound;
-    public AudioSource defeatSound;
+    public AudioSource startSound, healthFillSound, hurtSound, defeatSound, atkSound, atk1Sound, jumpSound, dashSound;
 
     void Start()
     {
@@ -53,6 +50,7 @@ public class x : MonoBehaviour
 
 	    if (Input.GetKeyDown(KeyCode.X) && onGround)
         {
+            jumpSound.Play();
             rb.AddForce(new Vector2(0, 250));
         }
 
@@ -60,11 +58,12 @@ public class x : MonoBehaviour
 	    {
 		    animator.SetTrigger("hitCV");
 		    GameObject bullet = (GameObject)Instantiate(bulletRef, firePoint.position, firePoint.rotation);
-            GetComponent<AudioSource>().Play();
+            atkSound.Play();
 	    }
 	
 	    if (Input.GetKeyDown(KeyCode.Z) && onGround  )
         {
+            dashSound.Play();
 		    if (tf.rotation.y == 0)
                 rb.AddForce(new Vector2(100, 0));
 		    else
@@ -72,11 +71,14 @@ public class x : MonoBehaviour
 	    	animator.SetBool("hitZ", true);
         }
 
-	    if (Input.GetKeyUp(KeyCode.Z))
-		    animator.SetBool("hitZ",false);
+	    if (Input.GetKeyUp(KeyCode.Z)){
+            animator.SetBool("hitZ",false);
+        }
+		    
 
 	    if (Input.GetKeyDown(KeyCode.V) )
         {
+            atk1Sound.Play();
             animator.SetTrigger("hitCV");
             if (mp > 0)
             {
@@ -95,6 +97,7 @@ public class x : MonoBehaviour
 
 	    if (hp <= 0 && !deadEffect)
         {
+            hp =-1000;
 		    deadEffect = true;
             defeatSound.Play();
 		    GameObject b = (GameObject)Instantiate(deadRef, firePoint.position, firePoint.rotation);
@@ -114,7 +117,7 @@ public class x : MonoBehaviour
             rb.AddForce(-transform.right * 50);
             animator.Play("hurt");
             hp -= 20;
-            hurtSound.Play();
+            if (hp>0) hurtSound.Play();
         }
         if (col.gameObject.tag == "hpItem")
         {
@@ -140,7 +143,7 @@ public class x : MonoBehaviour
             animator.Play("hurt");
             hp -= 20;
             Destroy(col.gameObject);
-            hurtSound.Play();
+            if (hp >0) hurtSound.Play();
         }
     }
 
