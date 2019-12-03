@@ -19,14 +19,14 @@ public class ManaBar : MonoBehaviour
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("MegaMan");
-        currentMana = player.GetComponent<x>().mana;
+        currentMana = player.GetComponent<x>().mp;
     }
 
     // Update is called once per frame
     void Update()
     {
         player = GameObject.FindGameObjectWithTag("MegaMan");
-        currentMana = player.GetComponent<x>().mana;
+        currentMana = player.GetComponent<x>().mp;
         HandleBar();
     }
 

@@ -4,7 +4,10 @@ using UnityEngine;
 
 public class zero : MonoBehaviour
 {
+    public float MAXHP =200f;
     public float hp = 200f;
+    public float MAXMP =180f;
+    public float mp = 180f;
     float speed = 0f;
     public SpriteRenderer sr;
     public Transform tf;
@@ -14,9 +17,10 @@ public class zero : MonoBehaviour
     Object deadRef;
     bool deadEffect = false;
     public Transform atkPos, flamePos, icePos, thunderPos, hurricanePos;
-    public float atkRX, flameRX, iceRX, thunderRX, hurricaneRX;
-    public float atkRY, flameRY, iceRY, thunderRY, hurricaneRY;
+    public float atkRX =0.49f, flameRX=0.57f, iceRX=0.32f, thunderRX=0.79f, hurricaneRX=0.6f;
+    public float atkRY=0.67f, flameRY=0.87f, iceRY=0.65f, thunderRY=0.2f, hurricaneRY=0.27f;
     public LayerMask enemy;
+    int atkType=1;
 
     // Start is called before the first frame update
     void Start()
@@ -48,10 +52,27 @@ public class zero : MonoBehaviour
         }
         if (Input.GetKeyDown(KeyCode.C))
         {
-            animator.SetTrigger("hitC");
-            Collider2D[] enemies = Physics2D.OverlapBoxAll(atkPos.position, new Vector2(atkRX, atkRY), 0, enemy);
-            for (int i=0; i < enemies.Length; i++)
-                enemies[i].GetComponent<Enemy>().TakeDamage(20);
+            atkType +=1;
+            if (!onGround || atkType ==4) atkType=1;
+            if (atkType==1){
+                animator.SetTrigger("hitC");
+                Collider2D[] enemies = Physics2D.OverlapBoxAll(atkPos.position, new Vector2(atkRX, atkRY), 0, enemy);
+                for (int i=0; i < enemies.Length; i++)
+                    enemies[i].GetComponent<Enemy>().TakeDamage(20);
+            }
+            if (atkType==2){
+                animator.SetTrigger("hurricane");
+                Collider2D[] enemies = Physics2D.OverlapBoxAll(hurricanePos.position, new Vector2(hurricaneRX, hurricaneRY), 0, enemy);
+                for (int i = 0; i < enemies.Length; i++)
+                    enemies[i].GetComponent<Enemy>().TakeDamage(20);
+            }
+            if (atkType==3){
+                animator.SetTrigger("flame");
+                // rb.AddForce(new Vector2(0, 200));
+                Collider2D[] enemies = Physics2D.OverlapBoxAll(flamePos.position, new Vector2(flameRX, flameRY), 0, enemy);
+                for (int i = 0; i < enemies.Length; i++)
+                    enemies[i].GetComponent<Enemy>().TakeDamage(20);
+            }
         }
 
         if ( Input.GetKeyDown(KeyCode.A) && !onGround)
@@ -62,14 +83,7 @@ public class zero : MonoBehaviour
                 enemies[i].GetComponent<Enemy>().TakeDamage(20);
         }
 
-        if (Input.GetKeyDown(KeyCode.S) && onGround)
-        {
-            animator.SetTrigger("flame");
-            rb.AddForce(new Vector2(0, 200));
-            Collider2D[] enemies = Physics2D.OverlapBoxAll(flamePos.position, new Vector2(flameRX, flameRY), 0, enemy);
-            for (int i = 0; i < enemies.Length; i++)
-                enemies[i].GetComponent<Enemy>().TakeDamage(20);
-        }
+       
 
         if (Input.GetKeyDown(KeyCode.V))
         {
@@ -78,13 +92,7 @@ public class zero : MonoBehaviour
             for (int i = 0; i < enemies.Length; i++)
                 enemies[i].GetComponent<Enemy>().TakeDamage(20);
         }
-        if (Input.GetKeyDown(KeyCode.D))
-        {
-            animator.SetTrigger("hurricane");
-            Collider2D[] enemies = Physics2D.OverlapBoxAll(hurricanePos.position, new Vector2(hurricaneRX, hurricaneRY), 0, enemy);
-            for (int i = 0; i < enemies.Length; i++)
-                enemies[i].GetComponent<Enemy>().TakeDamage(20);
-        }
+        
 
 
 
@@ -129,6 +137,16 @@ public class zero : MonoBehaviour
             rb.AddForce(-transform.right * 50);
             animator.Play("hurt");
             hp -= 20;
+        }
+        if (col.gameObject.tag == "hpItem"){
+            hp+=50;
+            if (hp >= MAXHP) hp =MAXHP;
+            Destroy(col.gameObject);
+        }
+        if (col.gameObject.tag == "mpItem"){
+            mp+=50;
+            if (mp >= MAXMP) mp =MAXMP;
+            Destroy(col.gameObject);
         }
     }
 

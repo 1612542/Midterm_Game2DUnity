@@ -4,8 +4,10 @@ using UnityEngine;
 
 public class x : MonoBehaviour
 {
+    public float MAXHP=200f;
     public float hp=200f;
-    public float mana = 180f;
+    public float MAXMP=180f;
+    public float mp = 180f;
     float speed = 0f;
     public SpriteRenderer sr;
     public Transform tf;
@@ -69,13 +71,13 @@ public class x : MonoBehaviour
 	    if (Input.GetKeyDown(KeyCode.V) )
         {
             animator.SetTrigger("hitCV");
-            if (mana > 0)
+            if (mp > 0)
             {
                 GameObject bullet2 = (GameObject)Instantiate(bulletRef2, firePoint.position, firePoint.rotation);
             }
-            mana -= 30f;
-            if (mana <= 0)
-                mana = 0;
+            mp -= 30f;
+            if (mp <= 0)
+                mp = 0;
         }
 
 	    if (onGround)
