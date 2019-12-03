@@ -1,7 +1,7 @@
 # Midterm_Game2DUnity
 
 # Nhóm Quốc-Hùng
-Trần Ngọc Quốc - 1612542
+Trần Ngọc Quốc - 1612542 
 Hoàng Phú Hùng - 1612233
 
 # Giới thiệu sơ lược về trò chơi
