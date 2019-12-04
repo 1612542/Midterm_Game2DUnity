@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class zero : MonoBehaviour
 {
@@ -120,7 +121,8 @@ public class zero : MonoBehaviour
             animator.SetBool("hitZ", false);
 
        
-
+        if (Input.GetKeyDown(KeyCode.Escape))
+            SceneManager.LoadScene("Menu");
    
         if (onGround)
             animator.SetBool("onGround", true);
@@ -134,10 +136,14 @@ public class zero : MonoBehaviour
             defeatSound.Play();
             GameObject b = (GameObject)Instantiate(deadRef, tf.position, tf.rotation);
             gameObject.GetComponent<Renderer>().enabled = false;
+            Invoke("reloadScene", 5f);
+
         }
 
     }
-
+    void reloadScene(){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+    }
     void OnCollisionEnter2D(Collision2D col)
     {
         if (col.gameObject.tag == "dietrap")

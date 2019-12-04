@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class x : MonoBehaviour
 {
     public float MAXHP=200f;
@@ -89,6 +89,8 @@ public class x : MonoBehaviour
             if (mp <= 0)
                 mp = 0;
         }
+        if (Input.GetKeyDown(KeyCode.Escape))
+            SceneManager.LoadScene("Menu");
 
 	    if (onGround)
 		    animator.SetBool("onGround",true);
@@ -102,7 +104,11 @@ public class x : MonoBehaviour
             defeatSound.Play();
 		    GameObject b = (GameObject)Instantiate(deadRef, firePoint.position, firePoint.rotation);
 		    gameObject.GetComponent<Renderer>().enabled = false;
+            Invoke("reloadScene", 5f);
 	    }
+    }
+    void reloadScene(){
+        SceneManager.LoadScene(SceneManager.GetActiveScene().name);
     }
 
     

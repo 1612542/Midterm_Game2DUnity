@@ -2,9 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class fade : MonoBehaviour
 {
     public Rigidbody2D rb;
+    public AudioSource sound;
     // Start is called before the first frame update
     void Start()
     {
