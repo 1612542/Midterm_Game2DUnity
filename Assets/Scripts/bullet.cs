@@ -16,7 +16,7 @@ public class bullet : MonoBehaviour
 
     void OnTriggerEnter2D(Collider2D col)
     {
-	    Destroy(gameObject);
+	    if (col.gameObject.tag!= "ebullet") Destroy(gameObject);
 	    Enemy enemy = col.GetComponent<Enemy>();
 	    if (enemy != null) enemy.TakeDamage(damage);
     }

@@ -22,15 +22,11 @@ public class zero : MonoBehaviour
     public LayerMask enemy;
     int atkType=1;
 
-    public AudioSource startSound;
-    public AudioSource healthFillSound;
-    public AudioSource hurtSound;
-    public AudioSource defeatSound;
+    public AudioSource healthFillSound, hurtSound, defeatSound, atkSound1, atkSound2, atkSound3, dashSound, jumpSound;
 
     // Start is called before the first frame update
     void Start()
     {
-        startSound.Play();
         speed = Time.deltaTime;
         deadRef = Resources.Load("dead");
     }
@@ -53,27 +49,31 @@ public class zero : MonoBehaviour
         }
 
         if (Input.GetKeyDown(KeyCode.X) && onGround)
-        {
+        {  
+            jumpSound.Play();
             rb.AddForce(new Vector2(0, 250));
         }
         if (Input.GetKeyDown(KeyCode.C))
         {
-            GetComponent<AudioSource>().Play();
+            // GetComponent<AudioSource>().Play();
             atkType +=1;
             if (!onGround || atkType ==4) atkType=1;
             if (atkType==1){
+                atkSound1.Play();
                 animator.SetTrigger("hitC");
                 Collider2D[] enemies = Physics2D.OverlapBoxAll(atkPos.position, new Vector2(atkRX, atkRY), 0, enemy);
                 for (int i=0; i < enemies.Length; i++)
                     enemies[i].GetComponent<Enemy>().TakeDamage(20);
             }
             if (atkType==2){
+                atkSound2.Play();
                 animator.SetTrigger("hurricane");
                 Collider2D[] enemies = Physics2D.OverlapBoxAll(hurricanePos.position, new Vector2(hurricaneRX, hurricaneRY), 0, enemy);
                 for (int i = 0; i < enemies.Length; i++)
                     enemies[i].GetComponent<Enemy>().TakeDamage(20);
             }
             if (atkType==3){
+                atkSound3.Play();
                 animator.SetTrigger("flame");
                 // rb.AddForce(new Vector2(0, 200));
                 Collider2D[] enemies = Physics2D.OverlapBoxAll(flamePos.position, new Vector2(flameRX, flameRY), 0, enemy);
@@ -84,7 +84,7 @@ public class zero : MonoBehaviour
 
         if ( Input.GetKeyDown(KeyCode.A) && !onGround)
         {
-            GetComponent<AudioSource>().Play();
+            atkSound3.Play();
             animator.SetTrigger("ice");
             Collider2D[] enemies = Physics2D.OverlapBoxAll(atkPos.position, new Vector2(iceRX, iceRY), 0, enemy);
             for (int i = 0; i < enemies.Length; i++)
@@ -95,7 +95,7 @@ public class zero : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.V))
         {
-            GetComponent<AudioSource>().Play();
+            atkSound3.Play();
             animator.SetTrigger("thunder");
             Collider2D[] enemies = Physics2D.OverlapBoxAll(thunderPos.position, new Vector2(thunderRX, thunderRY), 0, enemy);
             for (int i = 0; i < enemies.Length; i++)
@@ -108,6 +108,7 @@ public class zero : MonoBehaviour
 
         if (Input.GetKeyDown(KeyCode.Z) && onGround)
         {
+            dashSound.Play();
             if (tf.rotation.y == 0)
                 rb.AddForce(new Vector2(130, 0));
             else
@@ -128,6 +129,7 @@ public class zero : MonoBehaviour
 
         if (hp <= 0 && !deadEffect)
         {
+            hp =-1000;
             deadEffect = true;
             defeatSound.Play();
             GameObject b = (GameObject)Instantiate(deadRef, tf.position, tf.rotation);
@@ -147,7 +149,8 @@ public class zero : MonoBehaviour
             rb.AddForce(-transform.right * 50);
             animator.Play("hurt");
             hp -= 20;
-            hurtSound.Play();
+            if (hp >0) 
+                hurtSound.Play();
         }
         if (col.gameObject.tag == "hpItem"){
             hp+=50;
@@ -171,7 +174,7 @@ public class zero : MonoBehaviour
             animator.Play("hurt");
             hp -= 20;
             Destroy(col.gameObject);
-            hurtSound.Play();
+            if(hp>0) hurtSound.Play();
         }
     }
 
