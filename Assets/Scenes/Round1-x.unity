@@ -52315,7 +52315,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1a9a2ede231df8145b9f28eff7511dcc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  nextScene: 
+  nextScene: Round2-x
 --- !u!61 &1813598369
 BoxCollider2D:
   m_ObjectHideFlags: 0
